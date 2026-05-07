@@ -1,101 +1,135 @@
-# 👋 Hello, I'm BingMoe
-
+<!-- 代码背景动画 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%7C+Architect" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BingMoe&theme=github-dark-blue&border_radius=4" alt="GitHub Streak" /></a>
+  <img src="https://raw.githubusercontent.com/BingMoeNone/BingMoeNone/output/snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Languages
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%7C+Architect)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+</div>
 
-### Frontend
+<p align="center">
+  <img src="https://readme-components.vercel.app/api/animated-bg?color=%2300FFFF,06B6D4,000000&gdgd=brzbrzbrz" alt="Animated Background" />
+</p>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+---
 
-### Backend & Infrastructure
+<div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+```
+ ██████╗██╗  ██╗██████╗ ██╗      ██████╗ ██████╗ ███████╗████████╗
+██╔════╝██║  ██║██╔══██╗██║     ██╔═══██╗██╔══██╗██╔════╝╚══██╔══╝
+███████╗███████║██████╔╝██║     ██║   ██║██████╔╝█████╗     ██║
+╚════██║██╔══██║██╔═══╝ ██║     ██║   ██║██╔══██╗██╔══╝     ██║
+██████╔╝██║  ██║██║     ███████╗╚██████╔╝██║  ██║███████╗   ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝
+```
+
+</div>
+
+---
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=00FFFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=00FFFF&labelColor=000000"/>
+</h1>
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FFFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=00FFFF&labelColor=000000"/>
+</h1>
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00FFFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=00FFFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=000000&labelColor=000000"/>
+</h1>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BingMoe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BingMoe&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BingMoe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&icon_color=00FFFF&text_color=00FFFF&bg_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BingMoe&layout=compact&langs_count=8&theme=github_dark&icon_color=00FFFF&text_color=00FFFF&bg_color=000000" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BingMoe&theme=github-dark-pro&background=000000&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=00FFFF&sideLabels=00FFFF&type=svg" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🎯 Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BingMoe&hide=html,css&theme=radar" alt="Skills Radar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BingMoe&hide=html,css&theme=github_dark&icon_color=00FFFF&text_color=00FFFF&bg_color=000000" alt="Skills Radar" />
 </p>
 
 ---
 
 ## 💼 Professional Focus
 
-- 🔭 **Architecture Design** — Building scalable, resilient systems
-- 🌐 **Full-Stack Development** — End-to-end application development
-- ⚡ **Performance Optimization** — High-performance & low-latency solutions
-- ☁️ **Cloud Native** — AWS / GCP / Azure architecture
+<p align="center">
+
+| 🔭 Architecture | 🌐 Full-Stack | ⚡ Performance | ☁️ Cloud Native |
+|:---:|:---:|:---:|:---:|
+| Scalable Systems | End-to-End Apps | High-Speed Code | AWS / GCP / Azure |
+
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- 替换为你自己的项目 -->
+<p align="center">
 
-### [Your Project 1](https://github.com/BingMoe/project1)
+| Project 1 | Project 2 | Project 3 |
+|:---:|:---:|:---:|
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=BingMoe&repo=your-project1&icon_color=00FFFF&text_color=00FFFF&bg_color=000000)](https://github.com/BingMoe/your-project1) | [![](https://github-readme-stats.vercel.app/api/pin/?username=BingMoe&repo=your-project2&icon_color=00FFFF&text_color=00FFFF&bg_color=000000)](https://github.com/BingMoe/your-project2) | [![](https://github-readme-stats.vercel.app/api/pin/?username=BingMoe&repo=your-project3&icon_color=00FFFF&text_color=00FFFF&bg_color=000000)](https://github.com/BingMoe/your-project3) |
 
-> A brief description of what this project does and the tech stack used.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
----
-
-### [Your Project 2](https://github.com/BingMoe/project2)
-
-> A brief description of what this project does and the tech stack used.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:2945707804@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:2945707804@qq.com">
+    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Random Quote" />
+  <img src="https://raw.githubusercontent.com/BingMoeNone/BingMoeNone/output/profile-summary-card.svg" alt="Profile Summary"/>
 </p>
 
 ---
 
 <div align="center">
-  <b>⭐ From BingMoe</b>
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║  ⭐ From BingMoe  |  Built with ❤️ and ☕                ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
 </div>
+
+---
+
+<!-- 动态粒子背景 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BingMoeNone/BingMoeNone/output/grid.svg" alt="Grid Background" />
+</p>
