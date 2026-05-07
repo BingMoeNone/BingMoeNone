@@ -1,6 +1,6 @@
 <!-- 代码背景动画 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BingMoeNone/BingMoeNone/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/main/snake.svg?username=BingMoe" alt="Snake Animation" />
 </p>
 
 ---
@@ -112,7 +112,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BingMoeNone/BingMoeNone/output/profile-summary-card.svg" alt="Profile Summary"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BingMoe&theme=github_dark_dimmed&row=1&column=6" alt="Profile Trophy" />
 </p>
 
 ---
@@ -131,5 +131,5 @@
 
 <!-- 动态粒子背景 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BingMoeNone/BingMoeNone/output/grid.svg" alt="Grid Background" />
+  <img src="https://readme-components.vercel.app/api/animated-bg?color=%2300FFFF,06B6D4,000000&gdgd=brzbrzbrz" alt="Animated Background" />
 </p>
